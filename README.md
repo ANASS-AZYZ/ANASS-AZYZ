@@ -11,19 +11,19 @@
 
 
 <img align="right" height="300" width="500" src="https://github.com/user-attachments/assets/039da73a-3e22-4afd-985f-05f1589273b6"/>
-- 🔭 I’m currently working on [al-ibtiquar-souk](https://al-ibtiquar-souk.shop/)
+- 🔭 I’m currently working on al-ibtiquar-souk => https://al-ibtiquar-souk.shop/
 -  <img align="right" height="150" width="200" src="https://github.com/user-attachments/assets/99b9d2ba-5b72-496b-b5a6-bd3017d67fa3"/>
 
-- 🌱 I’m currently learning *Programming learning course*
+- 🌱 I’m currently learning *Programming learning course
 
 
-- 💬 Ask me about *HTML,CSS,PYTHON*
+- 💬 Ask me about HTML,CSS,PYTHON
 
-- 📫 How to reach me *anass.azyz.06@gmail.com*
+- 📫 How to reach me anass.azyz.06@gmail.com
 
-- 📄 Know about my experiences *Web Development Student at CMC R.S.K.*
+- 📄 Know about my experiences Web Development Student at CMC R.S.K
 
-- ⚡ Fun fact *When I started in e-commerce, I spent more time improving the UI than working on the products themselves!*
+- ⚡ Fun fact When I started in e-commerce, I spent more time improving the UI than working on the products themselves!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
