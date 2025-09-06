@@ -64,28 +64,20 @@ about_me: Obsessed with clean codes
 
 <h3>Tools and technologies that I use regularly</h3>
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" /><br>HTML</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br>CSS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" /><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br>Node.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" /><br>Express.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" /><br>React.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br>Next.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="48" /><br>Vue.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48" /><br>PHP</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=go" width="48" /><br>Go</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br>MySQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" /><br>C</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=csharp" width="48" /><br>C#</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cplusplus" width="48" /><br>C++</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br>MongoDB</td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" /><br>HTML</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br>CSS</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br>Node.js</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" /><br>React.js</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48" /><br>PHP</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br>MySQL</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br>MongoDB</td>
+    </tr>
+  </table>
 
 <h4>Operating Systems I use:</h4>
 <ul>
