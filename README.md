@@ -1,16 +1,160 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=1F6638&height=200&section=header&text=ANASS&fontSize=60&fontColor=093B1A&animation=twinkling)
 
-<!--
-**ANASS-AZYZ/ANASS-AZYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+  <img src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="40">GitHub IDs :
+</h2>
+Expand
+message.txt
+8 KB
+﻿
+goldVIhub
+沒有人
+itsysx.v1
+你抗拒的堅持
+ 
+ 
+ 
+ 
+life is pretending struggles matter
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+• Words show what’s on the mind. Anger shows what’s really inside. Talk to understand. Challenge to see the soul
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=1F6638&height=200&section=header&text=ANASS&fontSize=60&fontColor=093B1A&animation=twinkling)
+
+<h2 align="center">
+  <img src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="40">GitHub IDs :
+</h2>
+
+ ```js
+> - itsysxv1
+> - vibezp
+```
+<table border="0">
+  <tr>
+    <td>
+      <br>
+      <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Welcome+to+my+profile;+I'm+ANASS;" alt="Typing   "/>
+        <br>
+        <img width="150" align="center" src="https://komarev.com/ghpvc/?username=ANASS-AZYZ&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Profile Visitor Counter"/>
+        <br>  
+        <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=ANASS-AZYZ&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub Stats"/>
+      </p>
+    </td>
+    <td>
+      <img alt="Code GIF" src="assets/images/image.gif" style="max-width: 300px; border-radius: 10px;">
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">
+  <img src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="40">MY INFORMATION :
+</h2>
+
+```yaml
+# My Information
+name: ANASS
+username: ANASS-AZYZ
+age: 20
+job: Full-Stack Developer
+hobbies: clean code, dark themes, terminal life, coffee, music, anime, gaming
+about_me: Obsessed with clean codes 
+
+```
+
+<p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
+
+## <img src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width="50px" height=50px> Connect With Me
+
+<div align="left">
+  <a href="https://www.instagram.com/ANASS__AZYZ/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=093B1A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/1163102089208139827" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=093B1A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+  </a>
+  <a href="mailto:anass.azyz.06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=093B1A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+</div>
+
+<p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
+
+## ⚙️ My Favorite Tools And Technologies
+
+<h3>Tools and technologies that I use regularly</h3>
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" /><br>HTML</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br>CSS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" /><br>TypeScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br>Node.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" /><br>Express.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" /><br>React.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br>Next.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="48" /><br>Vue.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48" /><br>PHP</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=go" width="48" /><br>Go</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br>MySQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" /><br>C</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=csharp" width="48" /><br>C#</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cplusplus" width="48" /><br>C++</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br>MongoDB</td>
+  </tr>
+</table>
+
+<h4>Operating Systems I use:</h4>
+<ul>
+  <li>Linux (Kali / Arch / Ubuntu / Parrot)</li>
+  <li>Windows</li>
+</ul>
+
+
+<p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsysxv1&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&theme=react" height="150" />
+  <img src="https://streak-stats.demolab.com?user=itsysxv1&locale=en&mode=daily&theme=react" height="150" />
+</div>
+
+## 📊 Languages Used
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsysxv1&layout=compact&langs_count=8&theme=react" height="150" />
+</div>
+
+## 🏆 Trophy Case & Contribution Graph
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsysxv1&theme=nord&column=-1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsysxv1&theme=react" height="300" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsysxv1/itsysxv1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsysxv1/itsysxv1/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/itsysxv1/itsysxv1/output/github-snake.svg" />
+</picture>
+
+<p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
+
+
+
+<div align="center">
+  <img src="./assets/images/thx.png" alt="Centered Image">
+</div>
+
+message.txt
+8 KB
