@@ -80,10 +80,14 @@ about_me: Obsessed with clean codes
   </table>
 
 <h4>Operating Systems I use:</h4>
-<ul>
-  <li>Linux (Kali / Arch / Ubuntu / Parrot)</li>
-  <li>Windows</li>
-</ul>
+<table>
+    <tr>
+      <td align="center" width="96"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinux_6124995&psig=AOvVaw3ONGXe_kP9X_bfdkeyfyW7&ust=1757206008956000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOj6o9D0wo8DFQAAAAAdAAAAABAE" width="48" /><br>LINUX</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br>WINDOWS</td>
+
+    </tr>
+  </table>
+
 
 
 <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
