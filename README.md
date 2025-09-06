@@ -85,7 +85,7 @@ about_me: Obsessed with clean codes
       <td align="center" width="96"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" width="48" /><br>LINUX</td>
       <td align="center" width="96"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg" width="48" /><br>WINDOWS</td>
 
-    </tr>
+   
   </table>
 
 <p align="center"><img src="https://i.pinimg.com/736x/d2/46/9a/d2469aa13e9f8db27570279a4c14b3cd.jpg" width="100%"></p>
